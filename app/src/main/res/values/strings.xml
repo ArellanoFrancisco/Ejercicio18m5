@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Persistence_example</string>
+    <string name="ETInt">Ingresa un Numero Entero</string>
+    <string name="TvInt">Valor entero almacenado : %1$d</string>
+    <string name="ETtext">Ingresa un Texto</string>
+    <string name="Tvtext">Texto almacenado : %1$s</string>
+    <string name="Switch1"> Switch Activado </string>
+    <string name="Switch2"> Switch Desactivado </string>
+    <string name="Switch3"> Puedes dejar el Switch Activado o Desactivado </string>
+    <string name="ETdouble">Ingresa un Numero Decimal</string>
+    <string name="Tvdouble">Valor decimal almacenado : %1$f</string>
+    <string name="botton1">Borrar</string>
+    <string name="botton2">Guardar</string>
+</resources>
